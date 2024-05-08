@@ -1,0 +1,17 @@
+(footprint "RAM GND" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -1.8 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 012cdbff-e0d6-4eb7-8f68-ab581c30d54c)
+  )
+  (fp_text value "RAM GND" (at 0 2 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b6f2b3a1-8cd8-4e83-a41a-458505fa9307)
+  )
+  (fp_text user "${REFERENCE}" (at 0 3.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 3170f3f2-1faa-4da2-bec3-ea583fd0f807)
+  )
+  (pad "1" thru_hole rect (at 0 0) (size 2.15 2.3) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp c97231b9-ce00-4703-95b3-71bd9077dab6))
+)
