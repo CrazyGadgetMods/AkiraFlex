@@ -14,6 +14,9 @@ This flex was originally designed around a NUS-CPU-03 board, which has test poin
 ## Testing
 <img src="https://github.com/CrazyGadgetMods/AkiraFlex/blob/main/images/test.jpg" width=500>
 
+## Purchasing
+If interested in purchasing an AkiraFlex kit (blank flex + RAs and capacitors), [I am selling them on my Etsy store!](https://www.etsy.com/listing/1780345019)
+
 ## Credits
 - [Akira](https://bitbuilt.net/forums/index.php?members/akira.1105/): [creating the original method for deadbugging the RDRAM termination circuit](https://bitbuilt.net/forums/index.php?threads/lockdown-64.4175/post-46301)
 - [Noah](https://bitbuilt.net/forums/index.php?members/noah.1/): [inspiration from his unfinished Terminator 64 flex](https://bitbuilt.net/forums/index.php?threads/fusion64.3139/post-37558)
